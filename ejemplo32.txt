@@ -1,0 +1,3 @@
+<p>Este texto es <sup>superindice</sup></p>
+
+<p>Notas al pie<sup>1</sup></p>

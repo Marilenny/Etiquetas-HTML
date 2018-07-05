@@ -1,0 +1,3 @@
+<p>Apenas puedo ver. ¿Podrías prender la luz por favor?</p>
+
+<embed src="../../../flash/light-bulb.swf" type="application/x-shockwave-flash" width="180" height="350" quality="high" wmode="transparent">

@@ -1,0 +1,2 @@
+<p>Simple input box</p>
+<input type="text" value="Type here">

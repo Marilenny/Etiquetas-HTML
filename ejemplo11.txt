@@ -1,0 +1,8 @@
+<dl>
+   <dt>dl</dt>
+    <dd>Crea la caja que contiene los items de la lista.</dd>
+   <dt>dt</dt>
+    <dd>Item que contiene un termino a definir.</dd>
+   <dt>dd</dt>
+    <dd>Item que contiene una definicion.</dd>
+</dl>

@@ -1,0 +1,6 @@
+<p>Primer parrafo de ejemplo: 
+  Leonardo da Vinci fue un polimata florentino del Renacimiento italiano.</p>
+  <hr/>      
+  <p>Segundo parrafo, separado del primero por una
+   linea horizontal: 
+   Fue a la vez pintor, anatomista, arquitecto, paleontologo, artista, botanico, cientifico, escritor, escultor, filosofo, ingeniero, inventor, musico, poeta y urbanista.</p>

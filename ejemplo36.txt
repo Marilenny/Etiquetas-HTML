@@ -1,0 +1,1 @@
+<p dir="ltr">Esta palabara arabica<bdi>ARABIC_PLACEHOLDER</bdi> se muestra automaticamente de derecha a izquierda.</p>

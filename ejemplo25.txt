@@ -1,0 +1,6 @@
+<p>Producto Nuevo</p>
+<ul>
+ <li><data value="3967381398">Ketchup Mini</data></li>
+ <li><data value="3967381399">Ketchup Jumbo</data></li>
+ <li><data value="3967381400">Ketchup Mega Jumbo</data></li>
+</ul>

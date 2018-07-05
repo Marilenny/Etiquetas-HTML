@@ -1,0 +1,3 @@
+<p>
+Si esta conforme escriba <kbd>si</kbd>. Si no, pulse <kbd>esc</kbd>
+</p>

@@ -1,0 +1,4 @@
+<figure>
+  <img src="C:\Users\Comp\Desktop\KOREAN\ILAVAYOU.jpg" alt="texto alternativo">
+  <figcaption>Una imagen bonita y con un <a href="http://www.flickr.com/photos/rclark/">enlace</a></figcaption>
+</figure>

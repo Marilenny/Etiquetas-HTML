@@ -1,0 +1,4 @@
+<div>
+  <h2>Encabezado</h2>
+  <img src="roble.jpg" alt="un roble">
+</div>

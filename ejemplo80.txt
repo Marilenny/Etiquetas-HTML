@@ -1,0 +1,5 @@
+<article>
+    <h1>La etiqueta Article</h1>
+    <p>La etiqueta <b>article</b> suele usarse para fragmentos independientes de contenido...</p>
+    ...
+</article>

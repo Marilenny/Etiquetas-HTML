@@ -1,0 +1,5 @@
+<!-- HTML4 y (x)HTML -->
+<script type="text/javascript" src="javascript.js"></script>
+
+<!-- HTML5 -->
+<script src="javascript.js"></script>

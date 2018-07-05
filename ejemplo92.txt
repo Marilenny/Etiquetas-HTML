@@ -1,0 +1,1 @@
+<p>La función genera una variable llamada <var>temp</var> y la utiliza para intercambiar los valores de los parámetros <var>param1</var> y <var>param2</var>.</p>

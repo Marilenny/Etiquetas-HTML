@@ -1,0 +1,8 @@
+<pre>
+body{
+  color:  red;
+}
+a   {
+  color:green;
+}
+</pre>

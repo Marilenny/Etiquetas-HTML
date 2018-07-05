@@ -1,0 +1,3 @@
+<p>
+       Texto normal y... <s>Texto tachado</s>
+  </p>

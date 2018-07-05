@@ -1,0 +1,34 @@
+<html>
+   <head>
+      <style>
+         #test {
+            width: 100px;
+            height:100px;
+            margin: 0px auto;
+         }
+      </style>
+      <script type="text/javascript">
+         function dibujaForma(){
+            // Toma el elemento canvas usando el DOM
+            var canvas = document.getElementById('mycanvas');
+
+            // Asegurate de no ejecutar el canvas en navegadores que no lo soporten
+            if (canvas.getContext){
+               
+               // usa getContext para empezar a dibujar en el canvas
+               var ctx = canvas.getContext('2d');
+
+               // Dibuja las formas
+               ctx.fillRect(25,25,100,100);
+               ctx.clearRect(45,45,60,60);
+               ctx.strokeRect(50,50,50,50);
+            } else {
+               alert('Necesitas Safari o Firefox 1.5+ para ver esta demo.');
+            }
+         }
+      </script>
+   </head>
+   <body id="test" onload="dibujaForma();">
+      <canvas id="mycanvas"></canvas>
+   </body>
+</html>
